@@ -8,4 +8,4 @@ This repository contains tutorials and examples for setting up a productive work
 - Sample project setups
 
 ## Getting Started
-To get started, check the `docs` directory for detailed tutorials on setting up your workspace.
+Check the `docs` directory for detailed tutorials on setting up your workspace. Feel free to contribute your own tips!
