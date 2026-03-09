@@ -1,0 +1,1 @@
+# Workspace Setup Guide\n\n## Introduction\nThis guide will help you set up a productive workspace for development.\n\n## Steps\n1. Choose your favorite IDE (e.g., VSCode, IntelliJ).\n2. Install necessary extensions/plugins.\n3. Configure settings for optimal performance.\n\n## Conclusion\nFeel free to share your workspace setup tips!
